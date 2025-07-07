@@ -1,0 +1,40 @@
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+background: #fff8f0;
+color: #333;
+}
+
+header {
+background: #ffa07a;
+color: white;
+padding: 20px;
+text-align: center;
+}
+
+main {
+padding: 20px;
+}
+
+.receita {
+background: white;
+margin-bottom: 30px;
+padding: 20px;
+border-radius: 8px;
+box-shadow: 0 0 10px #ddd;
+}
+
+.receita h2 {
+margin-top: 0;
+}
+
+ul, ol {
+margin-left: 20px;
+}
+
+footer {
+background: #ffd9b3;
+text-align: center;
+padding: 10px;
+font-size: 0.9em;
+}
